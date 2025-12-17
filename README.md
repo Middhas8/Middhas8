@@ -1,4 +1,4 @@
-# Bem vinde 
+# Bem vindo(a) 
 ![GitHub followers](https://img.shields.io/github/followers/Middhas8?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Middhas8?style=social)
 
